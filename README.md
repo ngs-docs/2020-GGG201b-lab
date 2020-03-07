@@ -70,7 +70,7 @@ In terms of technology, we'll be using the snakemake workflow system, running on
 1. 1/10 - [Intro; variant calling 1](lab-1.md)
 2. 1/17 - [Variant calling 2 - now with more snakemake!](lab-2.md)
 3. 1/24 - [Variant calling 3 - conda, github, and snakemake](lab-3.md); [HW 1 assigned](lab-hw-1.md).
-4. 1/31 - [HW 1: Variant calling, due](lab-hw-1) --- TODAY'S NOTES: [Genome assembly 1](lab-4.md)
+4. 1/31 - [HW 1: Variant calling, due](lab-hw-1.md) --- TODAY'S NOTES: [Genome assembly 1](lab-4.md)
 5. 2/04 - BONUS LECTURE on assembly! [Outline and collaborative notes](NOTES-de-novo-assembly-lecture.md)
 6. 2/07 - [Genome assembly 2](lab-5.md)
 7. 2/14 -  [Genome assembly 3](lab-6.md)
